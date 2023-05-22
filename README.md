@@ -9,10 +9,10 @@ Com isso o banco colocou um regra de que novas solitações podem ser feitas a c
 Assim, temos dois principais objetivos iniciais: diminuir a burocracia, de forma que o tempo entre uma solicitação e outra seja menor, e que a resposta seja imediata eliminando os serviços de consultas da empresa terceira.
 
 ## Ferramentas Utilizadas
-Linhaguem: Python
-Ambiente de desenvolvimento: Jupyter Notebook
-Ferramenta de controle de versão: Git
-Bibliotecas: Pandas, Numpy, Seaborn
+Linhaguem: Python <br>
+Ambiente de desenvolvimento: Jupyter Notebook<br>
+Ferramenta de controle de versão: Git<br>
+Bibliotecas: Pandas, Numpy, Seaborn<br>
 
 ## Planejamento da Solução
 Usaremos o método cíclico de desenvolvimento CRISP-DS. Irei atualizando conforme o projeto for evoluíndo.
