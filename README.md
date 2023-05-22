@@ -29,11 +29,11 @@ Na seção de Feature Engineering criado o mapa mental de hipóteses, criada as 
 <img src="img/mapa_hipoteses.jpg">
 
 ## Próximos Passos
-Rever hipóteses criadas e analisar, se necessário derivar variáveis.
-Filtragem de variáveis
-Análise Exploratória
-Preparação dos Dados
-Seleção de atributos
-Modelo de Machine Learning
-Fine Tuning
-Métricas de Perfomance
+* Rever hipóteses criadas e analisar, se necessário derivar variáveis.
+* Filtragem de variáveis
+* Análise Exploratória
+* Preparação dos Dados
+* Seleção de atributos
+* Modelo de Machine Learning
+* Fine Tuning
+* Métricas de Perfomance
